@@ -1,0 +1,72 @@
+.mainContent {
+	position: relative;
+	width: 650px;
+	float: left;
+	background-color: #ffffff;
+	border: #dddddd;
+	padding: 0 20px 0 10px;
+	top: 120px;
+	height: auto;
+	margin-bottom: 200px;
+}
+
+.headline {
+    background-color: #00aea7;
+    opacity: 0.8;
+    color: #ffffff;
+    height: 60px;
+    position: relative;
+    width: 100%;
+    text-align: left;
+    bottom: 100px;
+}
+
+.headline:hover {
+	background-color: #00aea7;
+	opacity: 1;
+}
+
+h4 {
+	position: relative;
+	text-align: center;
+	top: 20px;
+}
+
+.image {
+	position: relative;
+	width: 200px;
+	height: 200px;
+	margin: 20px;
+}
+
+.i1 {
+	float: left;
+	left: 10%;
+}
+
+.i2 {
+	float: right;
+	right: 10%;
+}
+
+.i3 {
+	float: left;
+	clear: both;
+	left: 10%;
+}
+
+.i4 {
+	float: right;
+	right: 10%;
+}
+
+.i5 {
+	float: left;
+	clear: both;
+	left: 10%;
+}
+
+.i6 {
+	float: right;
+	right: 10%;
+}
